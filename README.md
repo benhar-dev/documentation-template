@@ -3,6 +3,8 @@
 ## Overview
 It is often a requirement to include documentation with your software project.  This repo can act as a startin point for your work.  Simply replace or edit this readme with your project front sheet, add your code to the src folder, then enable github pages to serve your docs folder.  
 
+The documentation that this repo produces is here! [See your documentation](https://benhar-dev.github.io/documentation-template/)
+
 Information on Github pages can be found [here](https://pages.github.com/)...
 
 ## Editing Guide
