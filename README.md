@@ -1,7 +1,7 @@
 # Example documentation project
 
 ## Overview
-It is often a requirement to include documentation with your software project.  This repo can act as a startin point for your work.  Simply replace or edit this readme with your project front sheet, add your code to the src folder, then enable github pages to serve your docs folder.  
+It is often a requirement to include documentation with your software project.  This repo can act as a starting point for your work.  Simply replace or edit this readme with your project front sheet, add your code to the src folder, then enable github pages to serve your docs folder.  
 
 The documentation that this repo produces is here! [See your documentation](https://benhar-dev.github.io/documentation-template/)
 
