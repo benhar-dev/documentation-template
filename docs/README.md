@@ -9,6 +9,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Coding example (only one box)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
+This is JavaScript
+```javascript
+document.getElementById("demo").innerHTML = "Hello Dolly.";
+```
+
+This is HTML
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+```
+
+This is structured text
 ```example
 // example code here...
 IF logging.IsEnabled THEN
